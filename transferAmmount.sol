@@ -1,15 +1,4 @@
-pragma solidity >=0.4.22 <0.6.0;
-
-contract etherAccount{
-    
-    address client;
-    
-    constructor() public{
-        client = msg.sender;
-    }
-    
-    modifier ifClient(){
-        if(msg.sender !=/*  Refer https://medium.com/coinmonks/smart-contracts-how-to-transfer-ether-ba464ec005c6
+/*  Refer https://medium.com/coinmonks/smart-contracts-how-to-transfer-ether-ba464ec005c6
     First initialise the directory after truffle unbox pet-shop
     then make the transferAmmount.sol file
     After running this transferAmmount.sol file deploy it/migrate it
@@ -65,27 +54,4 @@ contract transferAmmount{
     transferAmmount.deployed().then(function(instance){app = instance})
     app.deposit(0, {from:web3.eth.accounts[2],value:web3.toWei(10,'ether')})
     app.withdraw(0)
-*/ client){
-            revert();
-        }
-        else{
-            _;
-        }
-    }
-    
-    //send the money from contracts to address
-    function withdraw(){
-        
-    }
-    
-    //send amount to contracts
-    function giveToContract() public payable{
-        
-    }
-    
-    //check the amount present in the contracts
-    function getWord() ifClient() public view returns(uint){
-        return this.balance;
-    }
-    
-}
+*/
