@@ -1,0 +1,71 @@
+Designs:
+
+
+
+Survey:
+All the below questions on the topics can be answered in three ways Yes,No,Maybe.
+	1. Demonetisation:
+		Was demonetisation in India a good move?
+		Did demonetisation help in reducing corruption?
+		Do you think demonetisation made lower middle class and small businesses suffer badly?
+		Was goverment well prepared to face challenges after demonetisation?
+		Do you think any important financial decisions must be taken only after approval of RBI and Supereme Court?
+
+	2. Over-Population:
+		Is over-population a severe problem to control?
+		Is over-population control ethical?
+		Are poverty,illiteracy and unemployement reasons for over-population?
+		Can education help to reduce over-population?
+
+	3. Inter-caste Marriages:
+		Do marriages in same caste face less social pressure?
+		Are cultural problems severe in inter-caste marriages?
+		Do inter-caste marriages actually affect the family honour/reputation?
+		Should government issue some laws to help such married couples? 
+
+	4. Cast Reservation:
+		Does cast reservation cause hinderance to deserving people?
+		Is the caste reservation percentage balanced properly in education system?
+		Do you think caste reservation keeps discrimination alive? 
+		Is economic criteria an alternative to caste reservation?
+
+	5. Healthcare services:
+		Are healthcare services affordable?
+		Do you receive proper care from hospitals?
+		Concessions must given to senior citizens on healthcare?	
+
+	6. Food & Lifestyle :
+		Do you follow a diet?
+		Do you exercise daily?
+
+
+Features:
+1. People can answer the surveys honestly and can have assurance that their opinions remain unaletered. 
+2. This can help the authorities issuing the survey to make decisions.
+3. Helpful in knowing review,product feedback,people satisfaction.
+4. Quicker and safer.
+
+Pros:
+1. Assurance of not getting aletered.
+2. No need to fill the personal details everytime unlike in traditional physical survey.
+3. Will gain rewards.
+
+Cons:
+1. Hard to know opinions from rural areas as less use of technology
+2.
+3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
