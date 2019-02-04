@@ -1,2 +1,2 @@
 # GitPractice
-Just for learning GIt
+Just for learning Git
