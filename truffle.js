@@ -9,17 +9,18 @@
  *     network_id: '1',
  *     gas: 4500000,
  *     gasPrice: 10000000000,
- *   },
+ *   }
  */
 
 module.exports = {
   // See <http://truffleframework.com/docs/advanced/configuration>
   // to customize your Truffle configuration!
-
+  
+  // change IP as per your network
   networks: {
   	development: {
-  		host: "127.0.0.1",
-  		port: "9545",
+  		host: "192.43.0.105"
+  		port: "8080",
   		network_id: "*"
   	}
   }
